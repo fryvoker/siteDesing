@@ -1,1 +1,19 @@
-<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="dyalog" class="svg-inline--fa fa-dyalog fa-w-13" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 512"><path fill="currentColor" d="M0 32v119.2h64V96h107.2C284.6 96 352 176.2 352 255.9 352 332 293.4 416 171.2 416H0v64h171.2C331.9 480 416 367.3 416 255.9c0-58.7-22.1-113.4-62.3-154.3C308.9 56 245.7 32 171.2 32H0z"></path></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="500.000000pt" height="485.000000pt" viewBox="0 0 500.000000 485.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,485.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M870 4396 c-439 -384 -712 -854 -824 -1416 -122 -615 -1 -1274 332
+-1803 134 -213 337 -448 516 -596 l76 -62 0 1500 c0 928 4 1501 9 1501 6 0 36
+-14 68 -31 150 -81 190 -103 363 -194 102 -54 199 -105 215 -115 17 -10 89
+-48 160 -86 72 -37 170 -89 219 -116 l89 -48 904 0 903 0 0 -460 0 -460 -900
+0 -900 0 0 -989 0 -988 32 -7 c89 -18 291 -28 453 -23 655 21 1248 284 1710
+758 390 400 630 913 694 1479 14 124 6 505 -13 623 -76 469 -248 859 -536
+1216 -108 134 -407 421 -411 394 -1 -4 -1 -73 1 -151 1 -79 -1 -166 -5 -193
+l-7 -49 -1524 0 -1524 0 -2 200 -3 199 -95 -83z"/>
+</g>
+</svg>
